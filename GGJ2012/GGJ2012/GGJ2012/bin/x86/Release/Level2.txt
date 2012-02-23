@@ -1,0 +1,36 @@
+1 -20 1120
+Backgrounds/Level2_Background
+Backgrounds/Level2_Midground
+Backgrounds/Foreground2
+Backgrounds/soup_blue_tile 400 -1070
+Backgrounds/tree62 120 -970
+PurpleCircle
+BlueCircle
+RedCircle
+GreenCircle
+Enemies/spike_evil_tile
+Enemies/spiter_evil
+Enemies/puffin_puff
+Characters/ball_evil_tile 400 -1000
+
+T1 80 -1120 180
+T1 760 -1080 200
+T1 270 -755 43
+T1 284 -715 48
+T1 228 -723 40
+T1 504 -716 40
+T1 561 -695 50
+T1 584 -631 51
+C 405 -840
+C 386 -739
+C 364 -668
+C 313 -624
+C 245 -608
+C 187 -634
+C 150 -692
+C 136 -760
+C 661 -769
+C 680 -578
+C 436 -523
+E1 523 -662 50 200
+E2 270 -800 50 0

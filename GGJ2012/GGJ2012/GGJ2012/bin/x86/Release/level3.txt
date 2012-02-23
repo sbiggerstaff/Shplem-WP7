@@ -1,0 +1,44 @@
+0 20 1400
+Backgrounds/Level1_background
+Backgrounds/Level1_Midground
+Backgrounds/Foreground3
+Backgrounds/soup_tile1 400 570
+Backgrounds/tree61 120 470
+PurpleCircle
+BlueCircle
+RedCircle
+GreenCircle
+Enemies/spike_evil_tile
+Enemies/spiter_evil
+Enemies/puffin_puff
+Characters/ball_happy_tile 400 550
+
+T1 593 103 50
+T1 572 167 50
+T1 555 218 55
+T3 508 190 40
+T1 200 130 80
+T1 245 185 60
+T1 293 187 47
+T1 275 230 40
+T1 187 55 55
+T3 217 5 20
+T1 430 -60 50
+T1 492 -75 45
+T1 550 -85 55
+T2 527 -138 43
+C 90 85
+C 265 -15
+C 390 33
+C 500 103
+C 430 220
+C 400 400
+C 610 380
+C 300 -150
+C 340 -240
+C 455 -235
+C 670 -95
+E1 420 -110 50 0
+E3 590 55 50 0
+T1 70 620 200
+T1 740 600 200

@@ -1,0 +1,2 @@
+C:\Users\x3ro\Desktop\shplem\src\GGJ2012\GGJ2012\GGJ2012Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\x3ro\Desktop\src\GGJ2012\GGJ2012\GGJ2012Content\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+0 20 1400
+Backgrounds/Level1_background
+Backgrounds/Level1_Midground
+Backgrounds/Foreground1
+Backgrounds/soup_tile1 400 570
+Backgrounds/tree61 120 470
+PurpleCircle
+BlueCircle
+RedCircle
+GreenCircle
+Enemies/spike_evil_tile
+Enemies/spiter_evil
+Enemies/puffin_puff
+Characters/ball_happy_tile 400 550
+
+C 400 70
+C 400 140
+C 400 210
+C 400 280
+C 400 350
+C 400 420
+G howtoplay 450 450 100
+BT sign_anim 1 620 460 100
+GA ex_mark 620 430 50 25
+T1 70 620 200
+T1 740 600 200
